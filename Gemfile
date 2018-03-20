@@ -16,6 +16,8 @@ gem 'devise'
 
 gem 'yarn', '~> 0.1.1'
 
+gem 'activeadmin', '~>1.2.1'
+
 
 
   # Use sqlite3 as the database for Active Record
